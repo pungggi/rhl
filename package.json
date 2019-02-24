@@ -1,0 +1,14 @@
+{
+  "name": "rhl_easy_state",
+  "description": "to reproduce https://github.com/solkimicreb/react-easy-state/issues/77",
+  "version": "0.1.0",
+  "dependencies": {
+    "gatsby": "2.0.68",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-easy-state": "6.0.6"
+  },
+  "scripts": {
+    "start": "gatsby develop"
+  }
+}
